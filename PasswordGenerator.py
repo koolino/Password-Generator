@@ -22,7 +22,7 @@ print(colored("""
                                                          
                                                          
  
-""",'green'))
+""",'green'),colored("By Adem TCL ","red"))
 input(colored("Press Enter to continue...","green"))
 
 
